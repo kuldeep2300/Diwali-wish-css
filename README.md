@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/55969b1d-648a-4455-8c52-2645160b5f8a)# 🎆 Diwali Celebration Website 🎇
+🎆 Diwali Celebration Website 🎇
 
 Welcome to the **Diwali Celebration Website**! This project is a beautifully crafted, fully responsive website designed using **HTML** and **CSS** to celebrate the festival of lights, **Diwali**. The website showcases vibrant colors, traditional designs, and modern responsiveness to ensure it looks stunning on all devices.
 
