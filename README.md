@@ -20,7 +20,9 @@ Welcome to the **Diwali Celebration Website**! This project is a beautifully cra
 ![image](https://github.com/user-attachments/assets/0036a42a-7486-4997-b799-4dc80888e712)
 
 ### Mobile View
-![image](https://github.com/user-attachments/assets/7b6b5566-3168-4611-8ebd-58ddc8bff561)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7b6b5566-3168-4611-8ebd-58ddc8bff561" alt="Home Page" width="500">
+</div>
 
 > Replace the `./screenshots/filename.png` with the actual paths to your screenshot images.
 
