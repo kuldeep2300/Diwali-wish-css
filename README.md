@@ -17,7 +17,7 @@ Welcome to the **Diwali Celebration Website**! This project is a beautifully cra
 ## 📸 Screenshots
 
 ### Desktop View
-![image](https://github.com/user-attachments/assets/865d5ed3-4faa-4c64-bc3a-9052eaa38981)
+![image](https://github.com/user-attachments/assets/0036a42a-7486-4997-b799-4dc80888e712)
 
 ### Mobile View
 ![image](https://github.com/user-attachments/assets/7b6b5566-3168-4611-8ebd-58ddc8bff561)
